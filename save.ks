@@ -1,0 +1,10 @@
+*save
+[playse storage="«–ªª"]
+[position layer=message0 page=back visible=true opacity=0 top=0 height=600 left=0 width=800 marginl=0 margint=0 marginr=0 marginb=0 frame="ªÿ“‰ΩÁ√Ê"]
+[current layer=message0 page=back][er]
+[locate x=196 y=97][button normal="¥Êµµµ„" over="¥Êµµµ„_1"]
+[locate x=196 y=222][button normal="¥Êµµµ„" over="¥Êµµµ„_1"]
+[locate x=196 y=347][button normal="¥Êµµµ„" over="¥Êµµµ„_1"]
+[locate x=196 y=472][button normal="¥Êµµµ„" over="¥Êµµµ„_1"]
+[trans method=crossfade time=500][wt]
+[backlay]
