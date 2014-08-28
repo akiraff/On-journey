@@ -1,0 +1,3 @@
+image layer=0层放背景，之后的层放头像。
+message0是对话框
+message1放地址系统栏
